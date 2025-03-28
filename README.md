@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 💬 Ask me about indie games and I will talk all day
+- 🌱 I’m currently learning math, thats my second favourite thing to indie games!
+- 🔭 I’m currently working on finishing my inide game backlog and learning some good maths
 
 <!--
 **Maze2i/Maze2i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
